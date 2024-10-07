@@ -12,4 +12,3 @@ Python
 OpenCV: For live video capture and image processing.
 MediaPipe: For body pose detection and keypoint tracking.
 NumPy: For handling numerical operations and calculations.
-Setup Instructions
